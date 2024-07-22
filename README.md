@@ -1,5 +1,9 @@
 Thabo Magagula ST10447274
-THE PURPOSE OF THE APP
+
+
+
+
+                                                                 THE PURPOSE OF THE APP
 An application that monitors your water intake helps you ensure that youre drinking enough water throughout the day, which is crucial for maintaining overall health and well-being.
 It also allows you to set personalised hydration goals based on factors like your weight and activity level.
 It enables you to keep track of your daily and weekly intake as you can calculate your average water consumption per week to see how weel youre meeting your hydration goals that you may have set over time.
